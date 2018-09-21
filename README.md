@@ -34,8 +34,7 @@
 
 if you have any problems report to the following address:
 e-mail: ngalukiyemaureen@gmail.com 
-https://github.com/orgs/itotafrica/MRN626
-https://github.com/MRN626
+https://github.com/orgs/itotafrica
 
 to join our community go to:
 https://itotafrica.com/forum/ or https://www.clearos.com/clearfoundation/social/community
