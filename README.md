@@ -18,7 +18,7 @@
   *replace the **framework.conf** and **devel.conf** file with the file in the folder you are going to download
 
   *then open the two file using a text editor then look for that line: 
-  **ErrorDocument 400 https://your ip adress:1501/app/base/session/login/**
+  **ErrorDocument 400 https://your ip:1501/app/base/session/login/**
   
   *then replace **ip** on this line with your IP address
     do not forget this line is taken over for port 81 83 and 1501
